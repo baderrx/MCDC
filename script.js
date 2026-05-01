@@ -27,7 +27,7 @@ const companyLink = "https://maps.app.goo.gl/QzhkZYZS1Q8LveV97";
 // ========== صور الفنادق (34 صورة) ==========
 const hotelImages = [
     "img/1.jpeg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg","img/6.jpg","img/7.jpg","img/8.jpg","img/9.png","img/10.jpg","img/11.jpg","img/12.jpg","img/13.jpg","img/14.png","img/15.jpg","img/16.jpg",
-    "img/17.jpg","img/18.jpg","img/19.jpg","img/20.jpg","img/21.jpg","img/22.jpg","img/23.jpg","img/24.jpg","img/25.jpg","img/26.jpg","img/27.jpg","img/28.jpg","img/29.jpg","img/30.jpg","img/31.png",
+    "img/17.jpg","img/18.jpg","img/19.jpg","img/20.jpg","img/21.jpg","img/22.jpg","img/23.jpg","img/24.jpg","img/25.jpg","img/26.jpeg","img/27.jpg","img/28.jpg","img/29.jpg","img/30.jpg","img/31.png",
     "img/32.jpg","img/33.jpg","img/34.jpg"
 ];
 
@@ -50,12 +50,12 @@ const CENTER_9_COUNT = 12;
 const CENTER_10_COUNT = 8;
 
 // ========== صور وروابط المخيمات ==========
-const arafatImage = "img/arf.jpeg";
+const arafatImage = "img/arf.jpeg ";
 const minaImage = "img/mn.jpeg";
 const arafatLink = "https://maps.app.goo.gl/JuQ7Y6mFDTq4SdQd6";
 const minaLink = "https://www.google.com/maps?q=21.411056518554688,39.89848709106445&z=17&hl=ar";
 
-const PHONE_NUMBER = "+966550333907";
+const PHONE_NUMBER = "0550333907";
 
 // ========== تهيئة الصفحة ==========
 document.addEventListener('DOMContentLoaded', function() {
