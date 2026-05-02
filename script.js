@@ -55,7 +55,7 @@ const minaImage = "img/mn.jpeg";
 const arafatLink = "https://maps.app.goo.gl/JuQ7Y6mFDTq4SdQd6";
 const minaLink = "https://www.google.com/maps?q=21.411056518554688,39.89848709106445&z=17&hl=ar";
 
-const PHONE_NUMBER = "0550333907";
+const PHONE_NUMBER = "+9660550333907";
 
 // ========== تهيئة الصفحة ==========
 document.addEventListener('DOMContentLoaded', function() {
