@@ -34,7 +34,7 @@ const hotelImages = [
 // ========== روابط الفنادق (34 رابط) ==========
 const hotelLinks = [
     "https://maps.app.goo.gl/GNKLB1qTGwwwTyKb8", "https://maps.app.goo.gl/RW8TwGoJ25QFXWuWA", "https://maps.app.goo.gl/YkwS7YXn4QHB2jkf6", "https://maps.app.goo.gl/qrbPuVcZQuhbPjaYA",
-    "https://maps.app.goo.gl/8BUGYLef5YfmTqYq8", "https://maps.app.goo.gl/68yZUykYtpPxEHdr6", "https://maps.app.goo.gl/8pM6g1EFhb5fs1Jg6", "https://maps.app.goo.gl/P5ha7TcARr1UD9kP8",
+    "https://maps.app.goo.gl/8BUGYLef5YfmTqYq8", "https://maps.app.goo.gl/68yZUykYtpPxEHdr6", "https://maps.app.goo.gl/8pM6g1EFhb5fs1Jg6", "https://maps.app.goo.gl/u8rNdWQw1NGbdtEq7",
     "https://maps.app.goo.gl/kwke8srr2wszSBP79", "https://maps.app.goo.gl/fFVfQwDZtsGiuKmk8", "https://maps.app.goo.gl/PGLpRQYZJbYSCJVN9", "https://maps.app.goo.gl/momfwmKDSj8kFo1s8",
     "https://maps.app.goo.gl/CCjcnvTxZB5hmU7S8", "https://maps.app.goo.gl/7WTMzLajPabddU8J9", "https://maps.app.goo.gl/5SQjSrDyhUBRdz7k9", "https://maps.app.goo.gl/r7ENm9CP5dGbCaiy6",
     "https://maps.app.goo.gl/qqWSFevtWKmxPaj36", "https://maps.app.goo.gl/SxiuzKdZuKAsRy3Z9", "https://maps.app.goo.gl/gXAtjrMwW3DfPmgy6", "https://maps.app.goo.gl/882JEGTPcatpCxCY7",
