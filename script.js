@@ -10,7 +10,7 @@ const hotelNames = [
 // ========== الصور في الأعلى ==========
 const topLeftImage = "img/KS.png";
 const topCenterImage = "img/MCDC.jpeg";
-const topRightImage = "img/SN.png";
+const topRightImage = "SsN.png";
 
 // الشعارات الإضافية
 const extraLogos = [
